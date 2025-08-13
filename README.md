@@ -18,5 +18,4 @@ A beginner-friendly Jupyter notebook that walks through common chart types in Py
 - Common chart types with minimal code
 - Tips for styling & readability
 
-## Run Locally
-```
+---
